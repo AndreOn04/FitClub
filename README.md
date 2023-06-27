@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![image](https://github.com/AndreOn04/FitClub/assets/128987696/c5fd4035-0b5d-4464-a49b-c69bf6f338fc)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
