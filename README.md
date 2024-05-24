@@ -1,4 +1,9 @@
-Fit Club é um site desenvolvido para uma academia, pensado para fins de estudo. O objetivo do site é fornecer feedback ao usuário sobre seu desempenho nos treinos. O site oferece planos mensais e permite comentários de outros usuários, criando uma comunidade interativa. A interface é bonita e dinâmica, projetada para ser responsiva e se adaptar a dispositivos móveis. Para o desenvolvimento deste software, utilizei principalmente a tecnologia ReactJS, juntamente com CSS para conferir elegância ao site.
+# Projeto de Site para Academia - Fit Club
+
+* Site de academia desenvolvido para estudo, com ReactJS e CSS.
+* Fornece feedback sobre desempenho nos treinos e oferece planos mensais.
+* Permite comentários de usuários, criando uma comunidade interativa.
+* Interface bonita, dinâmica e responsiva para dispositivos móveis.
 
 https://fit-club-jet.vercel.app/
 
